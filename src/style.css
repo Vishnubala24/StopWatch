@@ -1,0 +1,27 @@
+body{
+    height: 100vh;
+    background-image: radial-gradient(circle, rgb(201, 45, 201), rgb(255, 190, 226), skyblue);
+    background-repeat: no-repeat;
+}
+
+#stop-watch-container{
+    margin: 10% 30%;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    width: 40vw;
+    text-align: center;
+}
+
+#timer{
+    text-align: center;
+    font-size: 3.5rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.btn{
+    font-size: 1.2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 50%;
+}

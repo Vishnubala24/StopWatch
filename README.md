@@ -1,2 +1,4 @@
 # StopWatch
-Stop watch using vanilla JS
+Stop watch app using vanilla JS
+
+
